@@ -1,0 +1,33 @@
+* {
+    font-family: sans-serif, Helvetica, Arial;
+    
+}
+
+.ONE {
+    text-align: right;
+    background-color:rgb(0,100,350);
+    padding: 10px;
+    margin: 100px;
+    width:100px;
+    align-self:right;
+}
+
+.TWO {
+    text-align:center;
+    background-color:rgb(120, 120, 255);
+    padding:10px;
+    margin:10px;
+    border:80px solid salmon;
+    width:auto;
+    justify-content:center;
+}
+
+.THREE {
+    text-align:left;
+    background-color: rgb(300,50,0);
+    padding:25px;
+    margin:45px;
+
+
+}
+
